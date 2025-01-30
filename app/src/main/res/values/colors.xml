@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#1A1A2E</color>
+    <color name="background_start">#1A1A2E</color>
+    <color name="background_end">#16213E</color>
+    <color name="card_background">#242442</color>
+    <color name="accent_secondary">#4F46E5</color>
+    <color name="accent_transparent">#804D6FFF</color>
+
+    <!-- Map screen specific colors -->
+    <color name="card_background_transparent">#CC242442</color>
+    <color name="coordinate_background">#33FFFFFF</color>
+
+
+    <!-- Primary Colors -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="accent">#4D6FFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+
+    <!-- Background Colors -->
+    <color name="control_panel_background">#CC1F1F35</color>
+    <color name="coordinates_background">#33FFFFFF</color>
+    <color name="status_background">#CC1F1F35</color>
+    <color name="chip_background">#401F1F35</color>
+
+    <!-- Switch Colors -->
+    <color name="switch_thumb">#4D6FFF</color>
+    <color name="switch_track">#804D6FFF</color>
+
+    <!-- Divider -->
+    <color name="divider_color">#1FFFFFFF</color>
+
+</resources>
